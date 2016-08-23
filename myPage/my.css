@@ -2,6 +2,19 @@ body{
 background-color:#fff;
 font-family:MV boli;
 }
+nav{
+float:left;
+z-index:auto;
+left:0;
+top:0px;
+height: 200px;
+background-color: rgba(53,53,53,0.6);
+border-top-right-radius: 40px;
+border-bottom-right-radius: 40px;
+width:300px;
+position: fixed;
+}
+
 
 input{
 margin-top:20px;
