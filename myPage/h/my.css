@@ -1,0 +1,12 @@
+body{
+background-color:#fff;
+font-family:MV boli;
+}
+
+input{
+margin-top:20px;
+border-radius:20px;
+width:300px;
+background-color:rgba(0,0,0,0.8);
+color:white;
+}
